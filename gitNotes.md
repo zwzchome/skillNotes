@@ -1,3 +1,5 @@
+# GitNotes
+## 基础操作
 0. git init:初始化一个版本库
 1. git add fN:将文件提交到临时存储区
 2. git commit -m "日志信息" FN  :将文件提交到本地库。
@@ -51,7 +53,7 @@
 
 
 
-
+## 遇到的问题
 问题：
 1. Git提交数据失败 error: failed to push some refs to 'https://github.com/XXXXXXX/gif.git'
 
