@@ -63,3 +63,8 @@
 解决：这是由于这个git 本地库的commit历史与远处的github的历史是不一致的。导致出现这样的情况。
 
 3. 若更改(删除)了本地文件夹中的某个文件，提交的时候，就直接git add --all。将所有都提交，然后push上去。
+
+## 参考
+1. [Git从入门到精通（全）](https://blog.csdn.net/weixin_47872288/article/details/120812667)
+2. [git使用教程](https://pypypy.blog.csdn.net/article/details/104551896)
+3. [git提交本地分支到远程分支](https://www.cnblogs.com/springbarley/archive/2012/11/03/2752984.html)
